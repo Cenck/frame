@@ -1,0 +1,7 @@
+## demo
+hibernate:
+  url: 1
+  driverClass: com.mysql
+  password: 1
+  username: 2
+  entityScanPkgs: 2
